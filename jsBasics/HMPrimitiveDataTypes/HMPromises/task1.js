@@ -4,4 +4,4 @@ function showText(text, ms) {
   }, ms);
 }
 
-showText("Привет через 2 секунды", 20000);
+showText('Привет через 2 секунды', 20000);

@@ -6,5 +6,5 @@ function adultPerson(age) {
   }
 }
 
-console.log("Age 25:", adultPerson(25)); // true
-console.log("Age 15:", adultPerson(15)); // false
+console.log('Age 25:', adultPerson(25)); // true
+console.log('Age 15:', adultPerson(15)); // false

@@ -1,7 +1,7 @@
 const users = [
-  { name: "Anna", email: "anna@gmail.com", age: 22 },
-  { name: "Mike", email: "mike@gmail.com", age: 28 },
-  { name: "Oleh", email: "oleh@gmail.com", age: 30 },
+  { name: 'Anna', email: 'anna@gmail.com', age: 22 },
+  { name: 'Mike', email: 'mike@gmail.com', age: 28 },
+  { name: 'Oleh', email: 'oleh@gmail.com', age: 30 },
 ];
 
 for (const user of users) {

@@ -6,7 +6,7 @@ export default class Book {
   }
 
   printInfo() {
-    console.log(this.title + " - " + this.author + " (" + this.year + ")");
+    console.log(this.title + ' - ' + this.author + ' (' + this.year + ')');
   }
 
   //найти самую старую книгу

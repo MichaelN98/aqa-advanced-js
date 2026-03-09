@@ -1,15 +1,20 @@
 {
-    "name": "hw-14-1-jsonplaceholder",
+    "name": "aqa-advanced-js-1",
     "version": "1.0.0",
-    "description": "API tests with axios for JSONPlaceholder",
-    "type": "module",
     "scripts": {
-        "test": "vitest run"
+        "test": "jest"
     },
     "dependencies": {
-        "axios": "^1.8.4"
+        "chalk": "^5.6.2"
     },
     "devDependencies": {
-        "vitest": "^3.0.8"
+        "@eslint/js": "^9.39.4",
+        "eslint": "^9.39.4",
+        "eslint-plugin-react": "^7.37.5",
+        "globals": "^17.4.0",
+        "husky": "^9.1.7",
+        "prettier": "^3.8.1",
+        "axios": "^1.8.4",
+        "jest": "^29.7.0"
     }
 }
